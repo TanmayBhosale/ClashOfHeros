@@ -1,8 +1,8 @@
 import React from "react";
-import Home from "./screens/home";
+import StackNav from "./screens/stcakNav"
 
 export default function App(){
   return(
-    <Home/>
+    <StackNav />
   );
 }
